@@ -1,0 +1,27 @@
+.bg {
+    background-color: #BE3144;
+}
+
+.homeBg {
+    height: 100vh;
+    background: linear-gradient(to right, #333538, #201F22);
+}
+
+
+.homeText {
+    color: #BE3144;
+}
+
+.workBg {
+    height: 100%;
+    background-color: #45567D;
+}
+
+.btnBg {
+    background-color: #303841;
+}
+
+.contactBg {
+    height: 100vh;
+    background-color: #303841;
+}
